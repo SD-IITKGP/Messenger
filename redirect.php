@@ -3,7 +3,7 @@ $insert=false;
 if(isset($_POST['name'])){
 $server = "localhost";
 $username = "id16501941_admin";
-$password ="Sourabh1503.";
+$password ="************";
 $connection=mysqli_connect($server,$username,$password);
 if(!$connection)
 {
